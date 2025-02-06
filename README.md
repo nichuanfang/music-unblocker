@@ -1,8 +1,8 @@
 # music-unblocker
 
-## 功能点
-
 A music unblock tool for myself.
+
+## 功能点
 
 - 支持**网易云音乐**解锁
 - 支持 **qq 音乐**解锁
